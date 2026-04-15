@@ -30,5 +30,6 @@ print("""
 ### Before deciding on making a bird I tried making a mouse since I thought it would work well with the cat, however I could not figure out how to make it look good.
 ### I had the same struggle with the bird, since it is such a small animal, which only gave me a small space and little amount of characters to create it.
 ### I'm still kinda torn on whether the bird looks good and especially whether it's recognisable, which is why I added speechbubbles with fitting animal sounds.
+### In order to not repeat the "print" command for every line I used triple quotation marks. 
 
 
